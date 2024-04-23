@@ -21,6 +21,7 @@ npm install
 ```sh
 npm run dev
 ```
+http://localhost:5173/ 
 
 ### Compile and Minify for Production
 
@@ -33,3 +34,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## Effect image 
+![effetfini](https://github.com/Yue-laure/FrondendTestPromo/assets/73362066/adbb9087-b588-4238-9b45-6af767da8266)
+
